@@ -1,4 +1,4 @@
-Selección de productos entienda virtual, hecho con React.
+Selección de productos en tienda virtual, hecho con React.
 
 # Getting Started with Create React App
 
