@@ -1,0 +1,26 @@
+/*iniciales*/
+
+*{padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+:root{
+        --Color1: black;
+        --Color2: gray;
+        --Color3: white;
+        --Color4: blue;
+        --Color5: red;
+        --Color6: yellow;
+        --Color7: rgb(119, 1, 1);
+
+    }
+
+    
+
+/*reservadas*/
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--Color7);
+}

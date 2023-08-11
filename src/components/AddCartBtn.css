@@ -1,0 +1,16 @@
+button{
+    width: 85px;
+    height: 30px;
+    border-radius: 16px;
+    background-color: var(--Color2);
+    border: none;
+    color: var(--Color3);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover{
+    border: 1px solid var(--Color4);
+    background-color: var(--Color5);
+    color: var(--Color6);
+}

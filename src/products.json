@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Control",
+        "price":"50",
+        "discount":"10",
+        "url":"https://picsum.photos/id/96/180"
+    },
+
+    {
+        "name":"Cámara",
+        "price":"600",
+        "discount":"45",
+        "url":"https://picsum.photos/id/250/180"
+    },
+
+    {
+        "name":"Ratón",
+        "price":"60",
+        "discount":"15",
+        "url":"https://picsum.photos/id/201/180"
+    },
+
+    {
+        "name":"Parlante",
+        "price":"80",
+        "discount":"40",
+        "url":"https://picsum.photos/id/529/180"
+    },
+
+    {
+        "name":"Teclado",
+        "price":"50",
+        "discount":"15",
+        "url":"https://picsum.photos/id/366/180"
+    },
+
+    {
+        "name":"Celular",
+        "price":"500",
+        "discount":"25",
+        "url":"https://picsum.photos/id/160/180"
+    },
+
+    {
+        "name":"Kindle reader",
+        "price":"700",
+        "discount":"35",
+        "url":"https://picsum.photos/id/367/180"
+    },
+
+    {
+        "name":"Portátil",
+        "price":"950",
+        "discount":"20",
+        "url":"https://picsum.photos/id/370/180"
+    }
+]

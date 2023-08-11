@@ -1,0 +1,42 @@
+.Product{
+    background-color: var(--Color1);
+    width: 220px;
+    padding: 20px 16px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+}
+
+.ProductImg{
+    border-radius: 12px;
+    display: block;
+    margin: auto;
+}
+
+.ProductName{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 14px;
+    color: var(--Color5);
+}
+
+.ProductDetails{
+    display: flex;
+    margin-top: 16px;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--Color4);
+}
+
+.ProductOldPrice{
+    text-decoration: line-through;
+}
+
+.ProductPrice{
+    font-weight: bold;
+}
+
+.Heart{
+    color: var(--Color5);
+}
+
